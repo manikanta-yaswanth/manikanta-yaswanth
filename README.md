@@ -77,8 +77,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/manikanta-yaswanth/manikanta-yaswanth/output/snake.svg" alt="Snake animation" />
-
-###
